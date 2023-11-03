@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<a href = "HomeStyle.css">
+<title> The Librarie : Home Page </title>
+</head>
+
+
+<body>
+
+<div id="header">
+<img id="logo" src="https://scontent.fdvo1-1.fna.fbcdn.net/v/t39.30808-6/348279637_796959365156853_2306664537406868416_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHavdf3GyXRZ0pUe2XZrMaaJ7xFC1K4VdAnvEULUrhV0M7nG6w6Umn0i4hIMgE7gUL9eIIuoqRnHPzSYJaDDhqH&_nc_ohc=BG2LsUcRse0AX-E0NO5&_nc_ht=scontent.fdvo1-1.fna&oh=00_AfC9U7KJyyA4pKHACRRLItSPzND958qSelxpGX9GIpK6NA&oe=65499B9F" width="50px" height="50px">
+<h1 id="header-name"> The Librarie </h1>
+<div class="menu-home"> <a href="#" >HOME</a> </div>
+<div class="menu-about"> <a href="file:///C:/Users/erica/OneDrive/Documents/CS3_Singayao_Q1_ABOUTPAGE.html" >ABOUT</a> </div>
+<div class="menu-events"> <a href=#" >EVENTS</a> </div>
+<div class="menu-shop"> <a href="#" >SHOP</a> </div>
+<div class="menu-contact"> <a href="#" >CONTACT</a> </div>
+</div>
+
+<div>
+<img class="line-photo" src="https://color-hex.org/colors/31241e.png" width="1300px" height="5px">
+</div>
+
+<div id="main-image">
+<img class="mainimage-photo" src="https://scontent.fdvo1-1.fna.fbcdn.net/v/t39.30808-6/347132082_1331466337733472_794881926256082693_n.png?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF93TesNbh_IlSx_tgxTlGL1eXDTwFTAFrV5cNPAVMAWg50i7AOnDq-lwZvPr9J_pFfmVBvj5Znc4P7JUlzvniF&_nc_ohc=QEeNuDXqdy8AX9jw5vc&_nc_ht=scontent.fdvo1-1.fna&oh=00_AfBbZrRkIdegp77mx5vLkMu4sudSrCamxFlTtZT1pOcREA&oe=654A3210" width="1300px" height="350px">
+</div>
+
+<div id="information1">
+<div class="explanation"> <img class="image1" src="https://scontent.fdvo1-1.fna.fbcdn.net/v/t39.30808-6/335733080_579358147254016_3834899358468958333_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFe7oCtpb_H6S_DM6fDpiLiLm9LLJqJY04ub0ssmoljTkuD_xUNco9tbopP_acg184ckISMJx571jkpSJ3AFwuv&_nc_ohc=tDzS50GiGFAAX9c_r4J&_nc_ht=scontent.fdvo1-1.fna&oh=00_AfAnXqA4rJFZtRAu45jE0RbjcuAA_noBPUuBmMY_BF_J_g&oe=6549FAB0" width="200px" height="150px"> <img class="image2" src="https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/335857093_591726772845805_8574157541633029812_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEH7mOzPOeq8K6hrH2xBfZQNenfMv4PKuY16d8y_g8q5tb8ARwhmYC9ocpVuR5BzpiWaip8QqFfRVvV1iWPOMf0&_nc_ohc=ys3xmeGb518AX8HbKeC&_nc_ht=scontent.fcgy2-2.fna&oh=00_AfD3zBBzgTzpVTmov5lgfOZW9qbDn8J1iIPea9uW2bxZ_A&oe=6548AC6D" width="200px" height="150px"> <img class="image3" src="https://scontent.fcgy2-2.fna.fbcdn.net/v/t39.30808-6/335669934_222625580298266_7418898511717463674_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGVhYSV7J9XZ99MOn4MncvpzRe_1fYMGX_NF7_V9gwZf53Iz6J3llBAP5BK9MOssznMUVsL0muFjpt4TBEzL1gW&_nc_ohc=dqpHi60Kva8AX8JbFxm&_nc_ht=scontent.fcgy2-2.fna&oh=00_AfDyyoADQ9d8h4Y0o105PUTqgBvTXF0qXtnFPQa2UOrt0g&oe=6548B4AD" width="200px" height="150px"> <p> Hello "Rie'ders"! The Librarie is an online bookstore where you can take a look, buy, and reserve books of all genres! Other than books, hard bounds, book marks stickers, and more are also available! This is for all of you readers who have a genuine interest and passion for reading. </p> </div>
+</div>
+
+
+<div id="button">
+<div class="actualbutton"> <a href="https://www.facebook.com/TheLibrariePh?mibextid=ZbWKwL" </a> 
+<button>FACEBOOK PAGE</button>
+</div>
+</div>
+
+</body>
+
+</html>
