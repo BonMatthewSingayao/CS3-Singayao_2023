@@ -1,0 +1,158 @@
+body {
+margin: 0px;
+background-color: #F6F4F3;
+}
+
+#header {
+margin-left: 80px;
+margin-right: 100px;
+padding: 10px;
+background-color: #F6F4F3;
+display: flex;
+flex-direction: row;
+background-color: #F6F4F3;
+}
+
+#logo {
+float: left;
+margin-left: 10px;
+margin-right: 10px
+}
+
+#header-name {
+font-size: 30px;
+font-family: Montserrat;
+font-style: bold;
+color: #31241E;
+margin-left: 10px;
+margin-right: 600px;
+}
+
+.menu-home {
+padding: 20px;
+font-family: Montserrat;
+font-style: bold;
+color: #86654B
+}
+
+.menu-about {
+padding: 20px;
+font-family: Montserrat;
+font-style: bold;
+color: #31241E
+}
+
+.menu-events {
+padding: 20px;
+font-family: Montserrat;
+font-style: bold;
+color: #31241E
+}
+
+.menu-shop {
+padding: 20px;
+font-family: Montserrat;
+font-style: bold;
+color: #31241E
+}
+
+.menu-contact {
+padding: 20px;
+font-family: Montserrat;
+font-style: bold;
+color: #31241E
+}
+
+#about-page {
+background-color: #F6F4F3
+}
+
+.content-left {
+background-color: #F6F4F3
+}
+
+.contentleftphoto {
+float: left;
+padding: 10px;
+margin-left: 100px;
+margin-right: 50px;
+}
+
+.content-right {
+background-color: #F6F4F3
+}
+
+.founder {
+font-family: Montserrat;
+font-style: bold;
+font-color: #31241E;
+padding: 5px;
+font-size: 15pt;
+}
+
+.name {
+font-family: Montserrat;
+font-style: bold;
+font-color: #31241E;
+padding: 5px;
+font-size: 26.1pt;
+}
+
+.biography {
+font-family: Montserrat;
+font-style: bold;
+font-color: #31241E;
+padding: 10px;
+font-size: 11pt;
+}
+
+.why {
+font-family: Montserrat;
+font-style: bold;
+font-color: #31241E
+padding: 5px;
+font-size: 26.1pt;
+}
+
+.why-explanation {
+font-family: Montserrat;
+font-style: bold;
+font-color: #31241E;
+padding: 10px;
+font-size: 11pt;
+}
+
+.history {
+font-family: Montserrat;
+font-style: bold;
+font-color: #31241E
+padding: 5px;
+font-size: 26.1pt;
+}
+
+.years {
+font-family: Montserrat;
+font-style: bold;
+font-color: #31241E;
+padding: 10px;
+font-size: 11pt;
+}
+
+
+.socials {
+background-color: F6F4F3;
+padding: 20px;
+margin-left: 80px;
+margin-right: 100px;
+}
+
+.apps {
+float: left;
+padding: 20px;
+}
+
+.line-photo {
+margin-left: 100px;
+margin-right: 100px;
+margin-bottom: 10px;
+}
